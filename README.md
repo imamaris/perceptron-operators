@@ -4,6 +4,7 @@ Perceptrons as Logical Operators
 we'll see one of the many great applications of perceptrons. As logical operators! You'll have the chance to create the perceptrons for the most common of these, the AND, OR, and NOT operators. And then, we'll see what to do about the elusive XOR operator. Let's dive in!
 
 
+AND Perceptrons 
 Output:
 
 Nice!  You got it all correct.
